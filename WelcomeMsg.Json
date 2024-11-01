@@ -1,0 +1,111 @@
+{
+  "WBUI2": {
+	"settings":
+	{
+		"OpenButton": 0,
+		"HideIcon": true,
+		"HideIconAfter": 900,
+		"IconURL": "https://i.imgur.com/pd93SXw.png",
+		"DisableIconText": true,
+		"IconPosition": 1,
+		"IconTextColor": 0,
+		"OpenOnStart": true,
+		"OpenOnStartOnlyNewPlayers": false,
+		"UpdateInterval": 12
+	},
+	"tabs": [
+		{
+			"tab1":
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Red>Welcome</>",
+				"title1": "<TextStyle.Red>Welcome To The KlowMassive Cluster </>",
+				"text1": "<TextStyle.Red>Welcome to the KlowMassive cluster</> \\n<TextStyle.Red>PS5/Xbox crossplay Pve ASA.</> \\n\\n<RichColor Color=\"1,1,0,1\">Double Xp and Double Harvest weekends!</> \\n\\n<RichColor Color=\"1,1,0,1\">Please join discord and register your player/tribe.</> \\n<RichColor Color=\"1,1,0,1\">Request starters.</> \\n<RichColor Color=\"1,1,0,1\">Take part in Server events and access our player and admin shops.</> \\n<RichColor Color=\"1,1,0,1\">Discord.com/W8TDWnEVeD (Case Sensitive) </> \\n\\n<TextStyle.Red>About us: </> \\n<RichColor Color=\"1,1,0,1\">We strive to have a great community where we can all have fun.  We have forums for you to submit feedback and ideas so we grow and get better. </> \\n\\n<TextStyle.Red>Tools:</> \\n<RichColor Color=\"1,1,0,1\">In-Game Commands to help save you from tricky situations, show who's online, and how much time you have for our decay settings.</> \\n\\n<TextStyle.Red>Map clean up and timers:</> \\n<RichColor Color=\"1,1,0,1\">After 30 days of inactivity, all tames and bases will be wiped automatically.</> \\n<RichColor Color=\"1,1,0,1\">Random structures like traps are auto cleaned once a week.</> \\n<RichColor Color=\"1,1,0,1\">Logging in on one map will refresh timers for all maps. </> \\n\\n<TextStyle.Red>Maps: </> \\n<RichColor Color=\"1,1,0,1\">The Island, The Island w/NPCs, Scorched Earth, Amissa, Forglar, and Temptress Lagoon, The Center.</> \\n\\n <TextStyle.Red>Shops:</> \\n <RichColor Color=\"1,1,0,1\">Admin Shop, and players market and trade tables to make selling your goods and dinos easy and fun.</> \\n\\n <TextStyle.Red>Starter kit includes:</> \\n<RichColor Color=\"1,1,0,1\">Argy, saddle and paintbrush to color your argy.</>",
+				"imageurl": "https://i.imgur.com/pd93SXw.png"
+			}
+		},
+		{
+			"tab2":
+			{
+				"layout": 3,
+				"buttontext": "<TextStyle.Red>Rules</>",
+				"title1": "<TextStyle.Red>Rules</>",
+				"text1": "GENERAL RULES (In game and Discord) \\n\\n*NOTE: DONATING DOES NOT PUT YOU ABOVE THE RULES YOU CAN AND WILL BE PUNISHED SHOULD YOU BREAK ANY RULES* \\n\\n1. Be respectful. \\nYou may not like someone but at least treat them respectfully. Being an ass for no reason isn't acceptable. \\n\\nOn Discord you will be warned, if that doesn't work you will be timed out/muted for up to 3 hours, should you continue past that you will be timed out for up to 72 hours/3 days, if for whatever reason you decide to continue past this then you may be banned from the server. \\n\\nIn game you will be warned through text chat, if this fails you will be kicked from the server. \\nUse of slurs, telling people to kill themself or racism will result in immediate timeout/mute and in extreme cases bans. \\n\\n2. Do not spam chats. \\n Spamming is sending multiple messages in quick succession generally with the intent to flood chats and make it difficult for others to use it. \\n\\nOn Discord: you will be warned and messages cleared, then Timed Out/muted for up to 3 hours, second violation will be timed out up to 72 hours/3 days if you continue after that you may be banned from the Discord. \\n\\nIn game: You will be warned through text chat, if that fails you will be kicked from the server. \\n\\n3. Do not backseat admin. \\nNow this doesn't mean if you see somebody doing something not allowed to not say anything, this means if an Admin is dealing with a situation and you have nothing of value to add or important context then do not get involved. If you have concerns, take it up with that admin after the fact. \\nPunishments: Warning, Timeout 3 hours, time out 72 hours/3 days \\n\\n4. Use of cheating/exploiting is strictly prohibited. \\n This includes meshing (building under map mesh to hide/protect things.) If it is discovered you used cheats you will be banned period. \\n\\nDiscovery of a base violating the mesh rules will result in a TRIBE WIPE! Meaning admins will COMPLETELY DELETE ALL STRUCTURES AND DINOS on the map.",
+				"imageurl": "https://i.imgur.com/Zw2lNR9.png",
+				"title2": "<TextStyle.Red>Rules Continued</>",
+				"text2": "5. Do not block spawn zones. \\nThis means you cannot build walls, place turrets or have player aggressive dinos in player spawn areas with the purpose of killing or trapping players when they spawn. \\n\\nPunishments; Warning with removal of structures or dinos in violation (up to 2), continued violations will result in a Tribe Wipe \\n\\n6. Do not block Obs or vital spots. \\nObs and areas used for transferring servers or activating boss fights are Neutral grounds, all players are free to access them to move from server to server within the cluster.  Blocking them is not allowed. \\n\\nStructures and/or creatures in violation will be removed and warnings issued, if after 2 warnings you continue to do so you will be wiped. \\n\\n7. Character Rules. \\nNo default character names like Bob, Human, Mensch etc. \\nNo names allowed that are racist, sexist, homophobic, or mock any disability. \\nCharacter names must be individual. \\nAdmins reserve the right to change player names that don’t follow the laws to whatever they choose. \\n\\n8. Tribe Laws. \\nPlease create a tribe name, even if playing as an individual \\nNo tribe names allowed that are racist, sexist, homophobic, or mock any disability, direct an insult towards other tribes, or copy an existing tribe name. \\nTribe names must be consistent across all maps \\nInsiding is very difficult to prove and for admins to settle. \\n Tribes should exercise caution regarding who they allow into tribe. Admins will assist if possible, but options are limited. \\n\\n9. Flag Rules \\nFlag colors will change on the 1st of each month. The new flag color will be announced prior to the change. Wipe Day wilyl occur no sooner than the 7th day of the month. Any bases found that have not changed flags by Wipe Day will be considered inactive and will be wiped. \\nIf you are suffering an event outside of your control and cannot log in to change your flags, please put in a ticket to alert admins. \\nplease place flags at your teleporters.",
+				"title3": "<TextStyle.Red>Rules Continued</>",
+				"text3": "10. Base Laws \\nSize, base must fit within a dino Leash \\nTribes are allowed two bases per map \\nBases may not be built in high resource zones, artifact caves, rare dino spawn areas, or Fjordur rune locations. \\nDo not build within render distance of any other player, obelisk, community center, or community TP. Admins reserve the right to ask any player to move or reduce base size to comply. \\nTP pads should not be placed anywhere other than players’ bases and MUST be on public. \\nBases are limited to a maximum of 2 Ocean or Tree Platform, and up to 8 Cliff platforms. Render rule still applies for platform use. \\nNo fencing your base with gates this is classed as spam and will be removed, if you must protect your base then please use turrets \\nNo building on Carno Island. \\n\\n11. Dino Laws \\nRecommended dino limit: No more than 20 out at a time. More may be allowed as long as your base is not laggy. Less may be requested if they are causing lag. Request cryo pods if needed. \\nAbsolutely no offline breeding. This is a serious offense and will result in a loss of dinos. \\nDo not leave dinos on aggressive or wandering unless positively contained. \\nUnwanted dinos must be unclaimed. Please do not abandon tamed dinos in the wild. \\n\\n12. Server Currency \\nThe Currency is Bushberry seeds(BBS) \\nAnd Shop Tokens. You can, exchange BBS for shop tokens I your crafting menu. \\n\\n13.PLAYER MAILBOXES \\nA mailbox allows admin to deliver items when you are not online. If you purchased something from the Admin Shop, we can deliver it securely to you. \\nOne mailbox per player/tribe, at your Main base. \\nPlease place mailbox at your teleporter. \\nAnd open ticket with admin to register mailbox and give us the pin.\\n\\nWe recommend having a vault and cryofridge."
+			}
+		},
+		{
+			"tab3":
+			{
+				"layout": 2,
+				"buttontext": "<TextStyle.Red>Server Setting/Mods</>",
+				"title1": "  <TextStyle.Red>Server Settings</> ",
+				"text1": "<TextStyle.Red>Normal Rates.</> \\n<RichColor Color=\"1,1,0,1\">Taming Speed Multiplier 100 (Instant)</> \\n<RichColor Color=\"1,1,0,1\">Harvest Amount Mulitiplier 5</> \\n<RichColor Color=\"1,1,0,1\">Baby Mature Speed Multiplier 150</> \\n<RichColor Color=\"1,1,0,1\">Cuddle Interval 0.01 (1 Imprint for 100%)</> \\n<RichColor Color=\"1,1,0,1\">Egg Hatch Multiplier</> \\n<RichColor Color=\"1,1,0,1\">Mating Interval Multiplier 0.0001 (Instant)</> \\n<RichColor Color=\"1,1,0,1\">XP 1</> \\n\\n<TextStyle.Red>Player Stats Per Level Multiplier.</> \\n<RichColor Color=\"1,1,0,1\">Health 10</> \\n<RichColor Color=\"1,1,0,1\">Stamina 10</> \\n<RichColor Color=\"1,1,0,1\">Oxygen 6</> \\n<RichColor Color=\"1,1,0,1\">Food 15</> \\n<RichColor Color=\"1,1,0,1\">Water 15</> \\n<RichColor Color=\"1,1,0,1\">Weight 500</> \\n<RichColor Color=\"1,1,0,1\">Melee 3</> \\n<RichColor Color=\"1,1,0,1\">Speed 7</> \\n<RichColor Color=\"1,1,0,1\">Fortitude 15</> \\n<RichColor Color=\"1,1,0,1\">Crafting 250</> \\n\\n<TextStyle.Red>Tame Stats Per Level Multiplier</> \\n<RichColor Color=\"1,1,0,1\">Health 2</> \\n<RichColor Color=\"1,1,0,1\">Stamina 2</> \\n<RichColor Color=\"1,1,0,1\">Weight 25</> \\n<RichColor Color=\"1,1,0,1\">Damage 7</> \\n<RichColor Color=\"1,1,0,1\">Speed 2</> \\n\\n<TextStyle.Red>Weekend Rates.</> \\n<RichColor Color=\"1,1,0,1\">Harvest Amount Mulitiplier 10</> \\n<RichColor Color=\"1,1,0,1\">XP 2</>",
+				"imageurl": "https://i.imgur.com/Zw2lNR9.png",
+				"title2": " <TextStyle.Red>Active Mods</> ",
+				"text2": "<TextStyle.Red>Active Mods</> \\n\\n<RichColor Color=\"1,1,0,1\">Pelayoris Cryo Storage</> \\n<RichColor Color=\"1,1,0,1\">Change Dino Gender</> \\n<RichColor Color=\"1,1,0,1\">Cryrus' Jumping Spider</> \\n<RichColor Color=\"1,1,0,1\">Nonoh's Spyglass</> \\n<RichColor Color=\"1,1,0,1\">Tek 2.0</> \\n<RichColor Color=\"1,1,0,1\">Automated Ark</> \\n<RichColor Color=\"1,1,0,1\">GreenHouse Glass Fix</> \\n<RichColor Color=\"1,1,0,1\">S-Dino Variants</> \\n<RichColor Color=\"1,1,0,1\">Custom Dino Levels</> \\n<RichColor Color=\"1,1,0,1\">Gryphons</> \\n<RichColor Color=\"1,1,0,1\">Net Projectile</> \\n<RichColor Color=\"1,1,0,1\">Nevermore Taxidermy</> \\n<RichColor Color=\"1,1,0,1\">Gameserverapp</> \\n<RichColor Color=\"1,1,0,1\">Cliffans Wardrobe</> \\n<RichColor Color=\"1,1,0,1\">Any Colour Sets</> \\n<RichColor Color=\"1,1,0,1\">Simple Trade</> \\n<RichColor Color=\"1,1,0,1\">Simple Connected Items</> \\n<RichColor Color=\"1,1,0,1\">Marnii Hairstyles</> \\n<RichColor Color=\"1,1,0,1\">Klingers Additional Rustic Building</> \\n<RichColor Color=\"1,1,0,1\">Klingers Additional Reinforced Concrete</> \\n<RichColor Color=\"1,1,0,1\">Additions Ascended: Arco</> \\n<RichColor Color=\"1,1,0,1\">Additions Ascended: Deinosuchus</> \\n<RichColor Color=\"1,1,0,1\">WBUI2</> \\n<RichColor Color=\"1,1,0,1\">AutoDoors</> \\n<RichColor Color=\"1,1,0,1\">Wall'n'Floor Decor.</>"
+			}
+		},
+		{
+			"tab4":
+			{
+				"layout": 4,
+				"buttontext": "<TextStyle.Red>Server Info</>",
+				"title1": "<TextStyle.Red>Free Cryos</>",
+				"text1": "<TextStyle.Red>How to get free Cryos</> \\n\\n<RichColor Color=\"1,1,0,1\">Cryogun - In your crafting inventory you can make a cryogun with a bit of thatch, point it at any of your tames, that you wish to cryo, and shoot.</> \\n\\n<RichColor Color=\"1,1,0,1\">If you have no cryos in your inventory it will give you a free cryo. This is unlimited, so no worries on ever running out of cryos!</> \\n\\n<RichColor Color=\"1,1,0,1\">If you cant see it in crafting, go to engrams and make sure the cryogun is unlocked.</> \\n",
+				"imageurl": "https://i.imgur.com/Zw2lNR9.png",
+				"title2": "<TextStyle.Red>In-Game Commands</>",
+				"title3": "<TextStyle.Red>Element Transfer</>",
+				"title4": "<TextStyle.Red>Auto Structure Decay</>",
+				"text2": "<TextStyle.Red>In-Game Command</> \\n\\n<RichColor Color=\"1.1,0,1\">To use these Commands, Simply type them in game chat</> \\n\\n\\n<RichColor Color=\"1,1,0,1\">!online - Shows how many players are currently online</> \\n\\n<RichColor Color=\"1,1,0,1\">!helpme - Will teleport player to welcome center or Obelisk</> \\n\\n <RichColor Color=\"1,1,0,1\">!renameme - Will rename character to players PSN / Gamertag</> \\n\\n<RichColor Color=\"1,1,0,1\">!balance - Shows player their shop balance</> \\n\\n<RichColor Color=\"1,1,0,1\">/decaytime- to see timer</>",
+				"text3": "<TextStyle.Red>How to Transfer Element</> \\n\\n<RichColor Color=\"1,1,0,1\">Craft soap with Element in cooking pot or industrial cooker.</> \\n\\n<RichColor Color=\"1,1,0,1\">Transfer to chosen map.</> \\n\\n <RichColor Color=\"1,1,0,1\">Craft Element using soap in Replikator or AAFabricator</>",
+				"text4": "<TextStyle.Red>LethalDecay</> \\n\\n<RichColor Color=\"1,1,0,1\">We have a clean up mod running on the server. It will automatically wipe bases and tames after 30 days.Small Bob bases and traps will rapid decay after 10 days.</> \\n\\n<RichColor Color=\"1,1,0,1\">To view decay timer for your own or other bases simply look at a structure and type /decaytime in game chat.</> \\n\\n<RichColor Color=\"1,1,0,1\">The mod will also reset your timer on all maps, as long as you login on one map.</> \\n\\n<RichColor Color=\"1,1,0,1\">If you are going to be away for an extended period please let admin no so we can reset or extend your timers.</>"
+			}
+		},
+		{
+			"tab5":
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Red>Massive Base Protection Bubble</>",
+				"title1": "<TextStyle.Red>Massive Base Protection Bubble</>",
+				"text1": "<RichColor Color=\"1,1,0,1\">To get a bubble you may get them free from our admin shop, or craft in your inventory for 1 fiber. They are called \"Massive Base Protection\". </> \\n\\n<RichColor Color=\"1,1,0,1\">There is small and large. You can place 1 large and 1 small or 2 small , per tribe, per map.</> \\n\\n<RichColor Color=\"1,1,0,1\">Once you have placed, enable range and make sure all your base is inside the bubble. </> \\n\\n <RichColor Color=\"1,1,0,1\">Any part of your base not covered will be destroyed after 5 days. </> \\n\\n<RichColor Color=\"1,1,0,1\">Please let us know if you have any questions.</> \\n\\n",
+				"imageurl": "https://i.imgur.com/Zw2lNR9.png"
+			}
+		}
+	],
+	"links": [
+		{
+			"link1":
+			{
+				"text": "<TextStyle.Red>Discord</>",
+				"url": "https://discord.com/invite/W8TDWnEVeD"
+			}
+		},
+		{
+			"link2":
+			{
+				"text": "<TextStyle.Red>Facebook</>",
+				"url": "https://www.facebook.com/share/ZZKxfHrcbfgX1wpG/?mibextid=A7sQZp"
+			}
+		},
+		{
+			"link3":
+			{
+				"text": "<TextStyle.Red>Admin Shop</>",
+				"url": "https://klowmassive.premiumark.net/shop"
+			}
+		},
+		{
+			"link4":
+			{
+				"text": "<TextStyle.Red>Donation Shop</>",
+				"url": "https://klowmassive.premiumark.net/supporter-tier"
+			}
+		}
+	]
+}
+}
